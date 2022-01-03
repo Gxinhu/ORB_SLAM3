@@ -1,0 +1,241 @@
+[
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/rgbd_tum.dir/Examples/RGB-D/rgbd_tum.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/RGB-D/rgbd_tum.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/RGB-D/rgbd_tum.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/stereo_inertial_euroc.dir/Examples/Stereo-Inertial/stereo_inertial_euroc.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Stereo-Inertial/stereo_inertial_euroc.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Stereo-Inertial/stereo_inertial_euroc.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/mono_tum.dir/Examples/Monocular/mono_tum.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Monocular/mono_tum.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Monocular/mono_tum.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/stereo_kitti.dir/Examples/Stereo/stereo_kitti.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Stereo/stereo_kitti.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Stereo/stereo_kitti.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/stereo_euroc.dir/Examples/Stereo/stereo_euroc.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Stereo/stereo_euroc.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Stereo/stereo_euroc.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/mono_kitti.dir/Examples/Monocular/mono_kitti.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Monocular/mono_kitti.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Monocular/mono_kitti.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/stereo_tum_vi.dir/Examples/Stereo/stereo_tum_vi.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Stereo/stereo_tum_vi.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Stereo/stereo_tum_vi.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/mono_euroc.dir/Examples/Monocular/mono_euroc.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Monocular/mono_euroc.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Monocular/mono_euroc.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/mono_tum_vi.dir/Examples/Monocular/mono_tum_vi.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Monocular/mono_tum_vi.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Monocular/mono_tum_vi.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/mono_inertial_euroc.dir/Examples/Monocular-Inertial/mono_inertial_euroc.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Monocular-Inertial/mono_inertial_euroc.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Monocular-Inertial/mono_inertial_euroc.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/System.cc.o -c /workspace/slam_project/ORB_SLAM3/src/System.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/System.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/Tracking.cc.o -c /workspace/slam_project/ORB_SLAM3/src/Tracking.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/Tracking.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/LocalMapping.cc.o -c /workspace/slam_project/ORB_SLAM3/src/LocalMapping.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/LocalMapping.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/LoopClosing.cc.o -c /workspace/slam_project/ORB_SLAM3/src/LoopClosing.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/LoopClosing.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/ORBextractor.cc.o -c /workspace/slam_project/ORB_SLAM3/src/ORBextractor.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/ORBextractor.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/ORBmatcher.cc.o -c /workspace/slam_project/ORB_SLAM3/src/ORBmatcher.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/ORBmatcher.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/FrameDrawer.cc.o -c /workspace/slam_project/ORB_SLAM3/src/FrameDrawer.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/FrameDrawer.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/Converter.cc.o -c /workspace/slam_project/ORB_SLAM3/src/Converter.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/Converter.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/MapPoint.cc.o -c /workspace/slam_project/ORB_SLAM3/src/MapPoint.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/MapPoint.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/KeyFrame.cc.o -c /workspace/slam_project/ORB_SLAM3/src/KeyFrame.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/KeyFrame.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/Atlas.cc.o -c /workspace/slam_project/ORB_SLAM3/src/Atlas.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/Atlas.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/Map.cc.o -c /workspace/slam_project/ORB_SLAM3/src/Map.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/Map.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/MapDrawer.cc.o -c /workspace/slam_project/ORB_SLAM3/src/MapDrawer.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/MapDrawer.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/Optimizer.cc.o -c /workspace/slam_project/ORB_SLAM3/src/Optimizer.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/Optimizer.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/Frame.cc.o -c /workspace/slam_project/ORB_SLAM3/src/Frame.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/Frame.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/KeyFrameDatabase.cc.o -c /workspace/slam_project/ORB_SLAM3/src/KeyFrameDatabase.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/KeyFrameDatabase.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/Sim3Solver.cc.o -c /workspace/slam_project/ORB_SLAM3/src/Sim3Solver.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/Sim3Solver.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/Viewer.cc.o -c /workspace/slam_project/ORB_SLAM3/src/Viewer.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/Viewer.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/ImuTypes.cc.o -c /workspace/slam_project/ORB_SLAM3/src/ImuTypes.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/ImuTypes.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/G2oTypes.cc.o -c /workspace/slam_project/ORB_SLAM3/src/G2oTypes.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/G2oTypes.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/CameraModels/Pinhole.cpp.o -c /workspace/slam_project/ORB_SLAM3/src/CameraModels/Pinhole.cpp",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/CameraModels/Pinhole.cpp"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/CameraModels/KannalaBrandt8.cpp.o -c /workspace/slam_project/ORB_SLAM3/src/CameraModels/KannalaBrandt8.cpp",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/CameraModels/KannalaBrandt8.cpp"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/OptimizableTypes.cpp.o -c /workspace/slam_project/ORB_SLAM3/src/OptimizableTypes.cpp",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/OptimizableTypes.cpp"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/MLPnPsolver.cpp.o -c /workspace/slam_project/ORB_SLAM3/src/MLPnPsolver.cpp",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/MLPnPsolver.cpp"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/GeometricTools.cc.o -c /workspace/slam_project/ORB_SLAM3/src/GeometricTools.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/GeometricTools.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/TwoViewReconstruction.cc.o -c /workspace/slam_project/ORB_SLAM3/src/TwoViewReconstruction.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/TwoViewReconstruction.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/Config.cc.o -c /workspace/slam_project/ORB_SLAM3/src/Config.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/Config.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -DORB_SLAM3_EXPORTS -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g -fPIC   -o CMakeFiles/ORB_SLAM3.dir/src/Settings.cc.o -c /workspace/slam_project/ORB_SLAM3/src/Settings.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/src/Settings.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/mono_inertial_tum_vi.dir/Examples/Monocular-Inertial/mono_inertial_tum_vi.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Monocular-Inertial/mono_inertial_tum_vi.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Monocular-Inertial/mono_inertial_tum_vi.cc"
+},
+
+{
+  "directory": "/workspace/slam_project/ORB_SLAM3/build/GCC 10.3.0 x86_64-linux-gnu",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -DCOMPILEDWITHC11 -I../../ -I../../include -I../../include/CameraModels -I../../Thirdparty/Sophus -I/workspace/vcpkg/installed/x64-linux/share/pangolin/../../include -I/include -I/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include/eigen3 -isystem /workspace/vcpkg/installed/x64-linux/include   -O3  -std=c++11 -g   -o CMakeFiles/stereo_inertial_tum_vi.dir/Examples/Stereo-Inertial/stereo_inertial_tum_vi.cc.o -c /workspace/slam_project/ORB_SLAM3/Examples/Stereo-Inertial/stereo_inertial_tum_vi.cc",
+  "file": "/workspace/slam_project/ORB_SLAM3/Examples/Stereo-Inertial/stereo_inertial_tum_vi.cc"
+}
+]
